@@ -1,8 +1,8 @@
-👋 Hi, I’m @KotTret
-🌱 I’m currently learning Java
-⚡ I’m looking to collaborate on any project
-📫 How to reach me - Telegram @KotTret
-😄 Fun fact: The Battle of Hastings didn’t actually take place in Hastings.
+- 👋 Hi, I’m @KotTret
+- 🌱 I’m currently learning Java
+- ⚡ I’m looking to collaborate on any project
+- 📫 How to reach me - Telegram @KotTret
+- 😄 Fun fact: The Battle of Hastings didn’t actually take place in Hastings.
 
 <!--
 **KotTret/KotTret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
