@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%20Добро%20пожаловать%20в%20мой%20GitHub%20профиль!&descAlignY=51&descAlign=60)
 
 - 👋 Hi, I’m @KotTret
-- 🌱 I’m currently learning Java
+- ☕ I’m a Java-developer
 - ⚡ I’m looking to collaborate on any project
 - 📫 How to reach me - Telegram @KotTret
 - 😄 Fun fact: The Battle of Hastings didn’t actually take place in Hastings.
