@@ -6,17 +6,28 @@
 - 📫 How to reach me - Telegram @KotTret
 - 😄 Fun fact: The Battle of Hastings didn’t actually take place in Hastings.
 
-<!--
-**KotTret/KotTret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Мой стек технологий:
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-BDB76B?style=for-the-badge&logo=Hibernate&logoColor=000000)
+  ![Maven](https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=Apache%20Maven&logoColor=000000)
+  ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF)
+  ![Lombock](https://img.shields.io/badge/Lombock-B22222.svg?style=for-the-badge)
+  ![Mockito](https://img.shields.io/badge/Mockito-9ACD32.svg?style=for-the-badge)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-C0C0C0?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)<br><br>
 
-Here are some ideas to get you started:
+## 📂 Мои открытые проекты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Название проекта                                                     | Назначение                                                                                                                                                                          | Технологический стек                                                                      |
+|:--------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------:|
+| [Explore with me](https://github.com/am29-10/java-explore-with-me)   | Rest-сервис который поможет найти человека для поездки в путешествие, похода в кино или другого совместного занятия.                                                                | Spring Boot, Hibernate, Maven, Spring Data JPA, PostgreSQL, Docker, JUnit, Mockito, Lombok|
+| [Shareit](https://github.com/am29-10/java-shareit)                   | Rest-сервис, где пользователи делятся своими вещами, бронируют для себя необходимые вещи на определенный период, а также могут оставлять отзывы о вещах, которыми они пользовались. | Spring Boot, Hibernate, Maven, Spring Data JPA, PostgreSQL, Docker, JUnit, Mockito, Lombok|
+| [Filmorate](https://github.com/am29-10/java-filmorate)               | Rest-сервис, социальная сеть, которая поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите.                                        | Spring Boot, Maven, JUnit, Lombok, JDBC                                                   |
+| [Kanban](https://github.com/am29-10/java-kanban)                     | Программа, которая позволяет ставить цели, задачи и сроки по проектам.                                                                                                              | Java EE, JUnit                                                                            |
