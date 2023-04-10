@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%20Добро%20пожаловать%20в%20мой%20GitHub%20профиль!&descAlignY=51&descAlign=60)
 
 - 👋 Hi, I’m @KotTret
 - ☕ I’m a Java-developer
